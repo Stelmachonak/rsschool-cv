@@ -1,1 +1,1 @@
-# rsschool-cvhttps://Stelmachonak.github.io/rsschool-cv/cv
+https://Stelmachonak.github.io/rsschool-cv/cv
