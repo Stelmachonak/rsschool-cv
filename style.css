@@ -1,0 +1,30 @@
+body {
+  max-width: 1024px;
+  padding: 0 20px;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #c7caf2;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.photo img {
+  width: 200px;
+  margin: 0;
+  border-radius: 20px;
+  
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+h1 {
+  text-align: center;
+}
